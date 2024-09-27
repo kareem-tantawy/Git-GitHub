@@ -1,1 +1,1 @@
-"print("Hello Py").py" 
+print("Hello Py")
